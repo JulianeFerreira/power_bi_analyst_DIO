@@ -1,7 +1,2 @@
-### Relatório feito com base no exercício proposto no curso de Power BI da Digital Innovation One
+### Exercícios da formação em Power BI Analyst da <a href="https://web.dio.me/home">Digital Innovation One</a>
 
-* Visual mapa 1: Soma de sales e unidades vendidas por país 
-
-* Visual mapa 2: Soma de lucro (profit) por país 
-
-* Visual de pizza: Lucro por segmento 
